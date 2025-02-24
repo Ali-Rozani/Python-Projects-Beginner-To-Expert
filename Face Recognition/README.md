@@ -1,0 +1,1 @@
+# Create Images folder and put your face or anyone's face and it will recognize the person by telling it's name also when you put your face in the images folder rename it to your name so it will work also if a image is not recognized it will say Unknown
